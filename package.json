@@ -1,0 +1,24 @@
+{
+  "name": "productinfo-cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackazon-System-Design-Captstone/productInfo-cluster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackazon-System-Design-Captstone/productInfo-cluster/issues"
+  },
+  "homepage": "https://github.com/Hackazon-System-Design-Captstone/productInfo-cluster#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.5.0"
+  }
+}
